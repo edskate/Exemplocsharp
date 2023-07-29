@@ -1,7 +1,2 @@
-﻿internal class Program
-{
-    private static void Main(string[] args)
-    {
-        Console.WriteLine("Meu primeiro codigo em csharp!");
-    }
-}
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Meu primeiro codigo em csharp!");
