@@ -1,0 +1,15 @@
+C:\Exemplocsharp\bin\Debug\net7.0\Exemplocsharp.exe
+C:\Exemplocsharp\bin\Debug\net7.0\Exemplocsharp.deps.json
+C:\Exemplocsharp\bin\Debug\net7.0\Exemplocsharp.runtimeconfig.json
+C:\Exemplocsharp\bin\Debug\net7.0\Exemplocsharp.dll
+C:\Exemplocsharp\bin\Debug\net7.0\Exemplocsharp.pdb
+C:\Exemplocsharp\obj\Debug\net7.0\Exemplocsharp.csproj.AssemblyReference.cache
+C:\Exemplocsharp\obj\Debug\net7.0\Exemplocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exemplocsharp\obj\Debug\net7.0\Exemplocsharp.AssemblyInfoInputs.cache
+C:\Exemplocsharp\obj\Debug\net7.0\Exemplocsharp.AssemblyInfo.cs
+C:\Exemplocsharp\obj\Debug\net7.0\Exemplocsharp.csproj.CoreCompileInputs.cache
+C:\Exemplocsharp\obj\Debug\net7.0\Exemplocsharp.dll
+C:\Exemplocsharp\obj\Debug\net7.0\refint\Exemplocsharp.dll
+C:\Exemplocsharp\obj\Debug\net7.0\Exemplocsharp.pdb
+C:\Exemplocsharp\obj\Debug\net7.0\Exemplocsharp.genruntimeconfig.cache
+C:\Exemplocsharp\obj\Debug\net7.0\ref\Exemplocsharp.dll
